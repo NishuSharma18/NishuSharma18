@@ -40,8 +40,6 @@
 
 ![](https://cp-logo.vercel.app/codechef/nishu_sharma18) <!-- codechef -->
 
-<img src="https://atrating.baoshuo.dev/rating?username=NishuSharma"> <!-- atcoder -->
-
 
 
 <hr>
