@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/nishusharma18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishu sharma" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nishu_sharma18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nishu_sharma18" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nishu_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nishu_sharma" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nishusharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nishusharma" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nishusharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nishu" height="30" width="40" /></a>
 <a href="https://leetcode.com/Nishu__one8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishusharma" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@as.nishu18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@as.nishu18" height="30" width="40" /></a>
 </p>
@@ -31,8 +31,6 @@
 
 <hr>
 
-<h3 align="left">Coding Profiles:</h3>
-
 
 [![LeetCode user Nishu__one8](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FNishu__one8&logo=leetcode&logoColor=yellow)](https://leetcode.com/Nishu__one8/)
 
@@ -44,6 +42,3 @@
 
 <hr>
   
-
-
-[![An image of @nishusharma18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishusharma18)](https://holopin.io/@nishusharma18)
