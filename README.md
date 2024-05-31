@@ -19,6 +19,8 @@
 ![](https://cp-logo.vercel.app/codechef/nishu_sharma18)<br><br>
 ![](https://codeforces-readme-stats.vercel.app/api/badge?username=NishuOne8) <!-- codeforces --><br>
 
-<img src="https://atrating.baoshuo.dev/rating?username=NishuSharma"> <!-- atcoder -->
+[![LeetCode user nishu__one8](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnishu__one8&logo=leetcode&logoColor=yellow)](https://leetcode.com/nishu__one8/)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishusharma18&label=Profile%20views&color=0e75b6&style=flat" alt="nishusharma18" /> </p>
   
